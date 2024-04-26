@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🔭 I'm working on a team project, trying to emulate the **Peter fell** site. in my portfolio there is my latest project always presented with the theme where we emulated the **XBox** website
+- 🔭 I'm working on a team project, trying to emulate the **Peter fell** site.
 
+- 🗂️ In my portfolio there is my latest project always presented with the theme where we emulated the **XBox** website
 
-- 🌱 I’m currently learning **HTML, CSS and Javascript** with Develhope
+- 🧑‍💻 I’m currently learning **HTML, CSS and Javascript** with Develhope
 
 - 📫 How to reach me **fede-palma@hotmail.it**
 
