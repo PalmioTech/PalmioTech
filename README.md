@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate Front-end Developer from Italy</h3>
 
 - 🔭 I'm working on a team project, trying to emulate the **Peter fell** site.
 
