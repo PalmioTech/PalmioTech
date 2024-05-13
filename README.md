@@ -3,9 +3,9 @@
 
 - 🔭 I'm working on a team project, trying to emulate the **Peter fell** site.
 
-- 🗂️ In my portfolio there is my latest project always presented with the theme where we emulated the **XBox** website
+- 🗂️ In my portfolio there is my latest project always presented with the team where we emulated the **XBox** website
 
-- 🧑‍💻 I’m currently learning **HTML, CSS and Javascript** with Develhope
+- 🧑‍💻 I’m currently learning **HTML, CSS, Javascript and React** with Develhope
 
 - 📫 How to reach me **palmierifederico3@gmail.com**
 
