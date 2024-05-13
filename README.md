@@ -7,7 +7,7 @@
 
 - 🧑‍💻 I’m currently learning **HTML, CSS and Javascript** with Develhope
 
-- 📫 How to reach me **fede-palma@hotmail.it**
+- 📫 How to reach me **palmierifederico3@gmail.com**
 
 <hr>
 <h3 align="center">Connect with me:</h3>
