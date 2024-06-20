@@ -4,7 +4,8 @@
 - 🔭 I'm working on a team project, planning a crypto exchange mobile app called **FraRaFeSi Exchange**
 .
 
-- 🗂️ In my portfolio there is my latest project always presented with the team where we emulated the **XBox** website
+- 🗂️ In my portfolio there are my latest projects always presented with the team where we emulated the **XBox** site and the **PeterFell** site
+
 
 - 🧑‍💻 I’m currently learning **HTML, CSS, Javascript and React** with Develhope
 
