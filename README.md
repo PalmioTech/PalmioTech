@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A passionate Front-end Developer from Italy</h3>
 
-- 🔭 I'm working on a team project, trying to emulate the **Peter fell** site.
+- 🔭 I'm working on a team project, planning a crypto exchange mobile app called **FraRaFeSi Exchange**
+.
 
 - 🗂️ In my portfolio there is my latest project always presented with the team where we emulated the **XBox** website
 
