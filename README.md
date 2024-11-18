@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A passionate Front-end Developer from Italy</h3>
 
-- 🔭 I'm working on a team project, planning a crypto exchange mobile app called **FraRaFeSi Exchange**
-.
+- 🌐 The first file in the repository is my **portfolio website**, built entirely in React, with Tailwind and JavaScript.
+
+- 🔭 I completed the mobile app for the cryptocurrency project **FraRaFeSi Exchange** as part of a group project, which can be viewed in my repositories.
 
 - 🗂️ In my portfolio there are my latest projects always presented with the team where we emulated the **XBox** site and the **PeterFell** site
-
 
 - 🧑‍💻 I’m currently learning **HTML, CSS, Javascript and React** with Develhope
 
